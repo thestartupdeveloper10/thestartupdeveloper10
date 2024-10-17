@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on UniWear<br>👯 I’m looking to collaborate on reactjs projects<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning ML and Data science<br>💬 Ask me about <br>⚡ Fun fact : It works in my computer
+🔭 I’m currently working on shutter<br>👯 I’m looking to collaborate on reactjs projects<br>🤝 I’m looking for help with ML<br>🌱 I’m currently learning ML and Data science<br>💬 Ask me about <br>⚡ Fun fact : It works in my computer
 
 
 ## 🌐 Socials:
